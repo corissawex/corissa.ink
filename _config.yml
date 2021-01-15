@@ -30,7 +30,7 @@ twitter_username: witchqueeen
 github_username:  corissawex
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
