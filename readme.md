@@ -1,3 +1,3 @@
 ## Welcome to Corissa.Ink
 
-The repository for my site, [corissa.ink](corissa.ink).
+The repository for my site, [http://corissa.ink](corissa.ink).
