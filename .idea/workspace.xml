@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61f8ccf8-1050-49e4-a9b4-886deec1477e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-minimal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/rouge-github.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/scale.fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jekyll-theme-minimal.gemspec" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n7Hpkk1pwSVIfbsbcUpxJCwF8w" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f8ccf8-1050-49e4-a9b4-886deec1477e" name="Default Changelist" comment="" />
+      <created>1610734393642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610734393642</updated>
+      <workItem from="1610734394925" duration="937000" />
+      <workItem from="1610815815232" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
