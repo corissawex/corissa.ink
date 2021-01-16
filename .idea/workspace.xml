@@ -2,39 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61f8ccf8-1050-49e4-a9b4-886deec1477e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-15-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-minimal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/rouge-github.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/scale.fix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jekyll-theme-minimal.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
