@@ -36,6 +36,7 @@ plugins:
   - jekyll-paginate
 
 # THEME SETTINGS
+remote_theme: patdryburgh/hitchens
 #paginate settings
 #paginate: 20
 #paginate_path: "/page/:num/"
