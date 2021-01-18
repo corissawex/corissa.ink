@@ -9,12 +9,12 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "hitchens-theme"
+gem 'corissawex-hitchens-theme', '~> 0.1.0'
 
 # To update plugin gems, run `bundle update github-pages`. If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "github-pages"
+  gem "jekyll-feed", "~> 0.13"
+  gem "github-pages", "~> 209"
   gem "jekyll-admin"
   gem "jekyll-compose"
   gem "jekyll-archives"

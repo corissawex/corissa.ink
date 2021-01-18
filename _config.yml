@@ -28,15 +28,14 @@ twitter_username: witchqueeen
 github_username: corissawex
 
 # Build settings
-# theme: minima
-theme: hitchens-theme
+theme: corissawex-hitchens-theme
 plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate
 
 # THEME SETTINGS
-remote_theme: patdryburgh/hitchens
+remote_theme: corissawex/hitchens-co
 #paginate settings
 #paginate: 20
 #paginate_path: "/page/:num/"
