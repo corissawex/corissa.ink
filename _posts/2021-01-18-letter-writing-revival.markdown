@@ -6,7 +6,7 @@ categories:
 title: Letter Writing Revival
 ---
 
-![](/_images/IMG_0735.PNG){:width="75%"}
+![](/_images/IMG_0735.PNG){ :width="75%" }
 
 Months ago I reached out to my friends on social media and asked them to send me letters, since as an old practice I used to write letters to my best friends pretty often. It's been years since I felt like I had the energy to do this in larger quantities, but the loneliness of the pandemic and my efforts to stay safe both encourage me to write letters and send them via the USPS. And despite its many flaws, the Postal Service does more good than harm, I truly do believe that. Of course I'm saying that having been obsessed with the Pony Express as a child, and loving the old USPS perv Chuck Bukowski, and my love of words... And sharing my opinion... Well, here we are. 
 
